@@ -23,6 +23,9 @@ Once the initial setup is done you need to complete a few user stories:
 
 + Given that the user has selected a company they should be able to see the companies details displayed below (companies name, company number,description, address). They should also be able too see a list of the companies directors.
 
+## bonus
+
++ Given that a user sees a list of directors the user should be able to filter the list via an input field by name.
 
 ## technical requirements
 + React
