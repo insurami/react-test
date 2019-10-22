@@ -21,7 +21,7 @@ Once the initial setup is done you need to complete a few user stories:
 
 + Given that a user has entered their API key the user should be able to search for a company using a text input field using the companies house API. Then the user should be able to select a company.
 
-+ Given that the user has selected a company they should be able to see the companies details displayed below (companies name, company number,description, address). They should also be able too see a list of the companies directors.
++ Given that the user has selected a company they should be able to see the companies details displayed below (companies name, company number, description, address). They should also be able too see a list of the companies directors.
 
 ## bonus
 
