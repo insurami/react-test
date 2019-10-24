@@ -8,7 +8,7 @@ Signup for a Companies House developer account [here](https://developer.companie
 127.0.0.1       application.com
 ```
 
-Then you need to register an app [here](https://developer.companieshouse.gov.uk/developer/applications/register). Select REST API and a generic application name and add "application.com" to your Authorised JavaScript domains.
+Then you need to register an app [here](https://developer.companieshouse.gov.uk/developer/applications/register). Select REST API and a generic application name and add "application.com" to your Authorised JavaScript domains. Then when you run you react app locally on for example on port 3000 you need to access the app with application.com:3000.
 
 
 ## assignment
@@ -31,3 +31,6 @@ Once the initial setup is done you need to complete a few user stories:
 + React
 + Mobx or Redux
 + Testing (you can choose)
+
+## final words
+If you run into any issues please don't hesitate to ask.
